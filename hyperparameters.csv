@@ -1,0 +1,11 @@
+﻿Split Criteria (Entropy or Gini),Minimum Sample Split,Minimum Sample Leaf,Maximum Depth
+entropy,2,15,10
+entropy,10,15,10
+entropy,2,25,10
+entropy,2,15,20
+gini,2,15,10
+gini,10,15,10
+gini,2,25,10
+gini,2,15,20
+,,,
+,,,
